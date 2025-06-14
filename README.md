@@ -16,7 +16,7 @@
 
 ## 📫 Connect With Me
 - LeetCode: https://leetcode.com/u/Rushi_24756/
-- LinkedIn: https://www.linkedin.com/in/v-rushi-851145311/
+- LinkedIn: [https://www.linkedin.com/in/v-rushi-851145311/](https://www.linkedin.com/in/rushi-vemulapalli-40a71136a/)
 - Email: rushi-dev24@outlook.com
 
 ---
