@@ -7,7 +7,7 @@
 ## 🧰 Tech Stack
 - Languages: C, Python, Java
 - Frontend: HTML, CSS
-- Tools: Git, GitHub, VS Code
+- Tools: Git, GitHub, VS Code, Linux
 
 ## 📈 Current Goals
 - Build and upload real-world projects to GitHub
