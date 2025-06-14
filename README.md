@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Rushi
 
-<!--
-**rushi-dev24/rushi-dev24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a first-year Computer Science student at CVR College of Engineering.  
+🚀 I'm learning Web Development and Data Structures & Algorithms.  
+🛠️ I’m also exploring GitHub, Linux, Python, and open source.
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
+- Languages: C, Python, JavaScript
+- Frontend: HTML, CSS, JavaScript
+- Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Current Goals
+- Build and upload real-world projects to GitHub
+- Improve my problem-solving skills (DSA)
+- Start contributing to open source projects
+
+## 📫 Connect With Me
+- LeetCode: https://leetcode.com/u/Rushi_24756/
+- LinkedIn: https://www.linkedin.com/in/v-rushi-851145311/
+- Email: vrushi756@gmail.com
+
+---
+
+> *This profile is under active development. Stay tuned! 🚀*
