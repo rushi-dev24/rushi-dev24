@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Rushi
 
-🎓 I'm a first-year Computer Science student at CVR College of Engineering.  
+🎓 I'm a 1st year Computer Science student at CVR College of Engineering.  
 🚀 I'm learning Web Development and Data Structures & Algorithms.  
-🛠️ I’m also exploring GitHub, Linux, Python, and open source.
+🛠️ I’m also exploring GitHub, Linux, Python, LeetCode and open source.
 
 ## 🧰 Tech Stack
-- Languages: C, Python, JavaScript
-- Frontend: HTML, CSS, JavaScript
+- Languages: C, Python, Java
+- Frontend: HTML, CSS
 - Tools: Git, GitHub, VS Code
 
 ## 📈 Current Goals
@@ -15,10 +15,10 @@
 - Start contributing to open source projects
 
 ## 📫 Connect With Me
-- LeetCode: https://leetcode.com/u/Rushi_24756/
+- LeetCode: [https://leetcode.com/u/Rushi_24756/](https://leetcode.com/u/rushi-dev24/)
 - LinkedIn: [https://www.linkedin.com/in/v-rushi-851145311/](https://www.linkedin.com/in/rushi-vemulapalli-40a71136a/)
 - Email: rushi-dev24@outlook.com
 
 ---
 
-> *This profile is under active development. Stay tuned! 🚀*
+> *This profile is under active development!!! 🚀*
