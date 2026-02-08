@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rushi
 
-🎓 I'm a 1st year Computer Science student at CVR College of Engineering.  
+🎓 I'm a 2nd year Computer Science student at CVR College of Engineering.  
 🚀 I'm learning Web Development and Data Structures & Algorithms.  
 🛠️ I’m also exploring GitHub, Linux, Python, LeetCode and open source.
 
