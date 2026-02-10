@@ -5,9 +5,9 @@
 🛠️ I’m also exploring GitHub, Linux, Python, LeetCode and open source.
 
 ## 🧰 Tech Stack
-- Languages: C, Python, Java, Kotlin
+- Languages: C, Python, Java
 - Frontend: HTML, CSS
-- Tools: GitHub, VS Code, Linux
+- Tools: GitHub, Eclipse IDE, Linux
 
 ## 📈 Current Goals
 - Build and upload real-world projects to GitHub
